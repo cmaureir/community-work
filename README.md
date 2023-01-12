@@ -1,5 +1,8 @@
 # Community Work
 
+> In 2022, I decided to start documenting the things I was doing related to communities
+> because I was dealing with a feeling I was not doing enough.
+
 Most of the work I have been doing in different communities.
 Some of the items can be found on Github, and some other
 are either in private repositories, chat platforms, and many
