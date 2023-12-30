@@ -12,7 +12,7 @@ other sources.
 
 The activity of some projects can be found here:
 
-### PyPi limit requests
+### PyPI limit requests
 
 https://github.com/pypa/pypi-support/issues?q=is%3Aissue+commenter%3Acmaureir
 
