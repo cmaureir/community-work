@@ -16,12 +16,9 @@ The activity of some projects can be found here:
 
 https://github.com/pypa/pypi-support/issues?q=is%3Aissue+commenter%3Acmaureir
 
-### Python Docs ES
-
-* Reviews: https://github.com/python/python-docs-es/pulls?q=is%3Apr+commenter%3Acmaureir
-* Translations: https://github.com/python/python-docs-es/pulls?q=is%3Apr+author%3Acmaureir
-
 ### Qt Project
+
+(This is my paid work, so it's not included in the calculations)
 
 * Contributions:
   https://codereview.qt-project.org/q/author:Cristian.Maureira-Fredes%2540qt.io+status:merged
@@ -37,3 +34,8 @@ https://github.com/pypa/pypi-support/issues?q=is%3Aissue+commenter%3Acmaureir
 ## Python en Español
 
 * https://github.com/python-discord-es/
+
+### Python Docs ES
+
+* Reviews: https://github.com/python/python-docs-es/pulls?q=is%3Apr+commenter%3Acmaureir
+* Translations: https://github.com/python/python-docs-es/pulls?q=is%3Apr+author%3Acmaureir
