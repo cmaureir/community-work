@@ -76,6 +76,7 @@ def plot_time_per_project():
     ax.bar(x, y, zorder=3)
     plt.xticks(rotation=45, ha="right")
     ax.set_ylabel('Hours')
+    ax.set_yscale('log')
     ax.set_title(f'Total hours per project in {YEAR}')
     plt.tight_layout()
     plt.show()
